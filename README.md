@@ -754,7 +754,7 @@ For commercial licensing inquiries, contact: ahmedabdulghany7@gmail.com
   - 🐙 GitHub: [@ahmedabdulghany7](https://github.com/ahmedabdulghany7)
 
 - **Belal Fathy**
-  - Contributed to model development
+  - Contributed to data analysis
 
 ### Academic Supervision
 - **Dr. Rasha Saleh** - Assistant Professor
