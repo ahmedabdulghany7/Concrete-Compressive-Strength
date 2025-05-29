@@ -20,7 +20,7 @@ cd Concrete-Compressive-Strength
 pip install -r requirements.txt
 
 # Run the Streamlit app
-streamlit run run.py
+streamlit run app.py
 ```
 **Access the app at**: `http://localhost:8501`
 
@@ -206,7 +206,7 @@ python -c "import streamlit, pandas, numpy, sklearn, xgboost; print('All package
 
 Launch the interactive web application:
 ```bash
-streamlit run main.py
+streamlit run app.py
 ```
 
 #### Navigation Menu:
@@ -469,7 +469,7 @@ pip install openpyxl xlrd
 #### 3. **Streamlit Port Issues**
 ```bash
 # Use different port
-streamlit run main.py --server.port 8502
+streamlit run app.py --server.port 8502
 ```
 
 #### 4. **Module Import Errors**
