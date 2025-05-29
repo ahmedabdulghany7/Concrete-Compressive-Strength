@@ -20,7 +20,7 @@ cd Concrete-Compressive-Strength
 pip install -r requirements.txt
 
 # Run the Streamlit app
-streamlit run main.py
+streamlit run run.py
 ```
 **Access the app at**: `http://localhost:8501`
 
