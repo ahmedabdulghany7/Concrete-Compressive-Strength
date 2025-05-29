@@ -748,13 +748,13 @@ For commercial licensing inquiries, contact: ahmedabdulghany7@gmail.com
 ## 👥 Authors & Contact
 
 ### Development Team
-- **Ahmed Abdulghany** - Lead Developer
+- **Ahmed Abdulghany**
   - 📧 Email: ahmedabdulghany7@gmail.com
   - 🔗 LinkedIn: [Ahmed Abdulghany](https://www.linkedin.com/in/ahmedabdulghany/)
   - 🐙 GitHub: [@ahmedabdulghany7](https://github.com/ahmedabdulghany7)
 
-- **Belal Fathy** - Co-Developer
-  - Contributed to model development and web application design
+- **Belal Fathy**
+  - Contributed to model development
 
 ### Academic Supervision
 - **Dr. Rasha Saleh** - Assistant Professor
