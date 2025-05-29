@@ -329,14 +329,6 @@ For commercial inquiries or permission requests, please contact:
 
 ---
 
-### Suggested Citation
-
-```
-Abdulghany, A. (2025). Concrete Compressive Strength Prediction. 
-Supervised by Dr. Rasha Saleh. Department of Software Engineering & Information Technology, 
-Egyptian Chinese University. Course: SET 393 - Data Mining and Business Intelligence.
-```
-
 ## 👨‍💻 Author
 
 **Ahmed Abdulghany**
