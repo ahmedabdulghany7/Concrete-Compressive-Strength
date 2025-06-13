@@ -9,7 +9,7 @@ import utilities
 def load_data():
     """Load and cache the concrete dataset"""
     try:
-        df = pd.read_excel('Concrete_Data.xls', engine='xlrd')
+        df = pd.read_excel('Concrete_Data.xlsx', engine='openpyxl')
         return df
     except Exception as e:
         st.error(f"Error loading data: {e}")
