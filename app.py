@@ -50,7 +50,6 @@ with st.sidebar:
 
     st.markdown("### Authors")
     st.markdown("Ahmed Abdulghany")
-    st.markdown("Belal Fathy")
 
 # Main content
 if selected == "Home":
@@ -126,6 +125,6 @@ elif selected == "Prediction":
 st.markdown("---")
 st.markdown("""
 <div class="footer">
-    <p>© Dr. Rasha Saleh | Ahmed Abdulghany | Belal Fathy </p>
+    <p>© Dr. Rasha Saleh | Ahmed Abdulghany </p>
 </div>
 """, unsafe_allow_html=True)
