@@ -48,7 +48,7 @@ with st.sidebar:
     st.markdown("### Supervisor:")
     st.markdown("Dr. Rasha Saleh")
 
-    st.markdown("### Authors")
+    st.markdown("### Author")
     st.markdown("Ahmed Abdulghany")
 
 # Main content
